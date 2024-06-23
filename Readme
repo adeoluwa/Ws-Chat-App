@@ -1,0 +1,29 @@
+# Simple Distributed Chat Application
+
+This is a simple distributed chat application using WebSocket technology. Users can join chat rooms and exchange messages in real time.
+
+## Features
+
+- Join chat rooms
+- Exchange messages in real time
+
+## Requirements
+
+- Node.js
+- npm (Node Package Manager)
+
+## Installation
+
+1. Clone the repository or download the project files.
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd chat-app
+
+3. Install the required dependecies
+  ``` npm install
+
+4. Run the application 
+
+  ``` npm run dev
